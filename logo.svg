@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96.001465"
+   inkscape:export-xdpi="96.001465"
+   inkscape:export-filename="/home/sanketdg/projects/awsomsauce/logo.png"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.0rc1 (09960d6f05, 2020-04-09)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 105.83333 105.83334"
+   height="400"
+   width="400">
+  <defs
+     id="defs2">
+    <rect
+       id="rect885"
+       height="25.25889"
+       width="128.00013"
+       y="65.21214"
+       x="13.356427" />
+    <rect
+       id="rect879"
+       height="25.956423"
+       width="73.312261"
+       y="60.816653"
+       x="16.327674" />
+    <rect
+       id="rect873"
+       height="47.585931"
+       width="140.08391"
+       y="19.764417"
+       x="17.097328" />
+    <rect
+       id="rect841"
+       height="44.881593"
+       width="63.848327"
+       y="21.450008"
+       x="15.233643" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:snap-bbox="false"
+     inkscape:window-maximized="1"
+     inkscape:window-y="20"
+     inkscape:window-x="0"
+     inkscape:window-height="724"
+     inkscape:window-width="1362"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="195.77958"
+     inkscape:cx="216.37065"
+     inkscape:zoom="0.43543761"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       style="font-family:sans-serif;font-size:10.58333333px;line-height:0;white-space:pre;shape-inside:url(#rect841);"
+       id="text839"
+       xml:space="preserve" />
+    <rect
+       y="0.10358417"
+       x="0.55682021"
+       height="52.779724"
+       width="105.37166"
+       id="rect945"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#b21807;stroke-width:1.12247;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       transform="translate(-14.091886,17.552208)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;line-height:0;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect873);opacity:0.994;fill:#b21807;fill-opacity:1;"
+       id="text871"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="17.097656"
+         y="27.951907"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0.999;fill:#b21800;fill-opacity:1">awsom</tspan></tspan></text>
+    <text
+       style="font-family:sans-serif;font-size:10.58333333px;line-height:0;white-space:pre;shape-inside:url(#rect879);"
+       id="text877"
+       xml:space="preserve" />
+    <rect
+       y="52.966526"
+       x="0.074604645"
+       height="52.746948"
+       width="105.853"
+       id="rect925"
+       style="fill:#b21807;fill-opacity:1;stroke:#b21807;stroke-width:0.226;stroke-opacity:1" />
+    <text
+       transform="translate(-8.1271957,2.8842571)"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.3333px;line-height:0;font-family:Cabin;-inkscape-font-specification:'Cabin, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect885);fill:#ffffff;fill-opacity:1;"
+       id="text883"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="13.355469"
+         y="77.668986"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.3333px;font-family:Cabin;-inkscape-font-specification:'Cabin, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1">sauce</tspan></tspan></text>
+  </g>
+</svg>
